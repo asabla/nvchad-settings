@@ -1,2 +1,2 @@
 # nvchad-settings
-A repo which contains all custom settings applied to nvchad
+I mainly use this repo as a way for sharing nvchad settings across multiple machines. 
